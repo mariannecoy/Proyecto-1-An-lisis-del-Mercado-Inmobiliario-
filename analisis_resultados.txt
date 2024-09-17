@@ -1,0 +1,14 @@
+Resultados en el conjunto de entrenamiento:
+Pendiente del modelo: -4484.3
+Intercepto: 195135
+Error Cuadrático Medio (MSE): 4.05256e+09
+Coeficiente de Determinación (R²): 0.0169958
+
+Resultados en el conjunto de prueba:
+Error Cuadrático Medio (MSE): 6.0275e+09
+Coeficiente de Determinación (R²): -0.0307938
+
+Análisis de los resultados:
+El modelo ajustado muestra un coeficiente de determinación R² de 0.0169958 en el conjunto de entrenamiento y -0.0307938 en el conjunto de prueba. Un valor de R² más cercano a 1 indica un mejor ajuste del modelo.
+El Error Cuadrático Medio (MSE) en el conjunto de prueba es 6.0275e+09, lo que indica el promedio de los errores de predicción en unidades cuadráticas.
+Si el MSE es significativamente mayor en el conjunto de prueba que en el de entrenamiento, podría haber un problema de sobreajuste. En este caso, los resultados muestran que el modelo podría estar sobreajustado.
